@@ -14,5 +14,5 @@
 ---
 
 ## Github Stats
-![vitorf7's GitHub stats](https://github-readme-stats-vitorf7.vercel.app/api?username=vitorf7&count_private=true&show_icons=true&theme=ayu-mirage)
-![Top Languages](https://github-readme-stats-vitorf7.vercel.app/api/top-langs/?username=vitorf7&layout=compact)
+![vitorf7's GitHub stats](https://github-readme-stats-vitorf7.vercel.app/api?username=vitorf7&count_private=true&show_icons=true&theme=ayu-mirage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Languages](https://github-readme-stats-vitorf7.vercel.app/api/top-langs/?username=vitorf7&layout=compact&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)

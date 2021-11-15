@@ -1,4 +1,4 @@
-### Hi, I'm Vitor Faiante - aka [vitorf7][https://github.com/vitorf7] 👋 
+### Hi, I'm Vitor Faiante - aka [vitorf7](https://github.com/vitorf7) 👋 
 
 - 👨‍💻 &nbsp;Software Engineer
 - 🌱 &nbsp;I’m currently learning more about Go, and OpenTelemetry
@@ -12,7 +12,3 @@
 <br />
 
 ---
-
-## Github Stats
-![vitorf7's GitHub stats](https://github-readme-stats-vitorf7.vercel.app/api?username=vitorf7&count_private=true&show_icons=true&theme=ayu-mirage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![Top Languages](https://github-readme-stats-vitorf7.vercel.app/api/top-langs/?username=vitorf7&layout=compact&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)

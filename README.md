@@ -12,3 +12,5 @@
 <br />
 
 ---
+
+[![Vitorf7's wakatime stats](https://github-readme-stats-vitorf7.vercel.app/api/wakatime?username=vitorf7)](https://github.com/anuraghazra/github-readme-stats)

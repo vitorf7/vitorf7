@@ -14,7 +14,7 @@
 
 <br />
 
-![Vitorf7's wakatime stats](https://github-readme-stats-vitorf7.vercel.app/api/wakatime?username=@vitorf7&theme=ayu-mirage&show_icons=true&layout=compact&count_private)
+![Vitorf7's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vitorf7&theme=ayu-mirage&show_icons=true&layout=compact&count_private)
 
 ---
 

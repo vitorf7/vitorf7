@@ -14,7 +14,19 @@
 
 <br />
 
-![Vitorf7's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vitorf7&theme=ayu-mirage&show_icons=true&layout=compact&count_private)
+![Stat](https://github-readme-stats.vercel.app/api?username=vitorf7&show_icons=true&theme=ayu-mirage&count_private=true)
+
+<!-- ---
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorf7&langs_count=8&theme=ayu-mirage&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ---
+
+<br />
+
+[![Vitorf7's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitorf7&theme=ayu-mirage&show_icons=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 

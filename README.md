@@ -1,6 +1,6 @@
 ### Hi, I'm Vitor Faiante - aka [vitorf7](https://github.com/vitorf7) 👋 
 
-- 👨‍💻 &nbsp;Software Engineer
+- 👨‍💻 &nbsp;Senior Software Engineer
 - 🌱 &nbsp;I’m currently learning more about Go, and OpenTelemetry
 - ☕️ &nbsp;Coffee drinker (goes hand in hand with being a Software Engineer)
 - 🏋🏻‍♂️ &nbsp;Bodybuilder
